@@ -1,1 +1,1 @@
-python3 -m VideoEncoder
+python3.7 -m VideoEncoder
